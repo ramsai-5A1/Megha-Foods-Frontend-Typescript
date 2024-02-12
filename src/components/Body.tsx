@@ -1,4 +1,5 @@
 import { ABOUTPART_IMAGES, ABOUTPART_TEXTS, COMPANY_LOGO_2, EMPOWERMENT_IMAGE, FARMERS_FRIEND_IMAGE, HAPPY_CUSTOMERS_IMAGE, QUALITY_SERVICE_IMAGE } from "../helper/constants"
+import EventBulkOrders from "./EventBulkOrders"
 import HappyCustomers from "./HappyCustomers"
 import Testimonials from "./Testimonials"
 import TopProducts from "./TopProducts"
@@ -10,6 +11,7 @@ const Body = () => {
             <TopProducts/>
             <HappyCustomers/>
             <Testimonials/>
+            <EventBulkOrders/>
             <AboutPart/>
         </div>
     )

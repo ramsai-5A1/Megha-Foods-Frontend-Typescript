@@ -46,3 +46,5 @@ export const HAPPY_CUSTOMERS_YOUTUBE_IDS = [
 ];
 
 export const BACKEND_TESTIMONIAL_API = "http://localhost:3002/api/getTestimonials";
+export const BULK_ORDERS_BACKGROUND_IMAGE_URL = "https://images.unsplash.com/photo-1548940740-204726a19be3?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fGRlbGljaW91cyUyMGZvb2R8ZW58MHx8MHx8fDA%3D";
+
