@@ -55,7 +55,7 @@ const TestimonialCard = ({name, address, reviewDescription, starRating}: Testimo
     }, []);
 
     return (
-        <div className="bg-white  text-black w-[20%] h-72 p-2 m-4 rounded-lg shadow-lg">
+        <div className="bg-white  text-black w-[20%] h-96 p-2 m-4 rounded-lg shadow-lg">
             <div className="flex flex-col">
                 <span className="font-bold text-lg">{name}</span>
                 <span className="font-semibold">{address}</span>
@@ -66,7 +66,7 @@ const TestimonialCard = ({name, address, reviewDescription, starRating}: Testimo
 
             <div className="w-auto border border-gray-500 rounded-full m-2 mt-8 mb-5"></div>
 
-            <div className="h-40 scroll-smooth m-1 overflow-auto">
+            <div className="h-60 scroll-smooth m-1 overflow-auto">
                 <p className="">{reviewDescription}</p>
             </div>
         </div>
