@@ -1,5 +1,6 @@
 import { ABOUTPART_IMAGES, ABOUTPART_TEXTS, COMPANY_LOGO_2, EMPOWERMENT_IMAGE, FARMERS_FRIEND_IMAGE, HAPPY_CUSTOMERS_IMAGE, QUALITY_SERVICE_IMAGE } from "../helper/constants"
 import HappyCustomers from "./HappyCustomers"
+import Testimonials from "./Testimonials"
 import TopProducts from "./TopProducts"
 
 const Body = () => {
@@ -8,6 +9,7 @@ const Body = () => {
             <AboutPart/>
             <TopProducts/>
             <HappyCustomers/>
+            <Testimonials/>
             <AboutPart/>
         </div>
     )
@@ -29,7 +31,7 @@ const AboutPart = () => {
     )
 }
 
-const CircleCard = ({src, text}) => {
+const CircleCard = ({src, text}: {src: string, text: string}) => {
     return (
         <div>
             <div className="max-w-72 flex flex-col justify-center items-center space-y-2 mb-10">
