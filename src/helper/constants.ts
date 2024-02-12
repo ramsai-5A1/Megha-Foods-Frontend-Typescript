@@ -44,3 +44,5 @@ export const HAPPY_CUSTOMERS_YOUTUBE_IDS = [
     "f2vhsBqBqlA",
     "dBSpdEH9Law"
 ];
+
+export const BACKEND_TESTIMONIAL_API = "http://localhost:3002/api/getTestimonials";
