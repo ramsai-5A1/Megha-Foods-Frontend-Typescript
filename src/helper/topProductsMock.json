@@ -1,0 +1,76 @@
+{
+    "TOP_RECEIPIES": [
+        {
+            "id": 1,
+            "imageUrl": "https://sitarafoods.com/wp-content/uploads/2022/07/01-1.jpg",
+            "title": "Hyderabad Dum Biryani",
+            "min_price": "150",
+            "max_price": "550",
+            "reviews": "12",
+            "rating": "4.5"
+        },
+        {
+            "id": 2,
+            "imageUrl": "https://sitarafoods.com/wp-content/uploads/2022/07/01-2.jpg",
+            "title": "Chicken Boneless Biryani",
+            "min_price": "270",
+            "max_price": "450",
+            "reviews": "54",
+            "rating": "4.5"
+        },
+        {
+            "id": 3,
+            "imageUrl": "https://sitarafoods.com/wp-content/uploads/2022/07/01-3.jpg",
+            "title": "Malai Paneer Tikka",
+            "min_price": "120",
+            "max_price": "400",
+            "reviews": "25",
+            "rating": "4.5"
+        },
+        {
+            "id": 4,
+            "imageUrl": "https://sitarafoods.com/wp-content/uploads/2022/07/01-4.jpg",
+            "title": "Tandoori Chicken half",
+            "min_price": "250",
+            "max_price": "600",
+            "reviews": "32",
+            "rating": "4.5"
+        },
+        {
+            "id": 5,
+            "imageUrl": "https://sitarafoods.com/wp-content/uploads/2022/07/01-5.jpg",
+            "title": "Tandoori Chicken full",
+            "min_price": "250",
+            "max_price": "750",
+            "reviews": "9",
+            "rating": "4.5"
+        },
+        {
+            "id": 6,
+            "imageUrl": "https://sitarafoods.com/wp-content/uploads/2022/07/01-6.jpg",
+            "title": "Hyderabad fry-piece Biryani",
+            "min_price": "250",
+            "max_price": "350",
+            "reviews": "29",
+            "rating": "4.5"
+        },
+        {
+            "id": 7,
+            "imageUrl": "https://sitarafoods.com/wp-content/uploads/2022/07/01-7.jpg",
+            "title": "Hyderabad Dum Biryani (family pack)",
+            "min_price": "650",
+            "max_price": "1050",
+            "reviews": "45",
+            "rating": "4.5"
+        },
+        {
+            "id": 8,
+            "imageUrl": "https://sitarafoods.com/wp-content/uploads/2022/07/01-8.jpg",
+            "title": "Hyderabad Dum Biryani (mini pack)",
+            "min_price": "150",
+            "max_price": "350",
+            "reviews": "67",
+            "rating": "4.5"
+        }
+    ]
+}
